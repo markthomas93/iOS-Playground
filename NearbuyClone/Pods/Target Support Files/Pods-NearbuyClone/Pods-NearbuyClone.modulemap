@@ -1,0 +1,6 @@
+framework module Pods_NearbuyClone {
+  umbrella header "Pods-NearbuyClone-umbrella.h"
+
+  export *
+  module * { export * }
+}
