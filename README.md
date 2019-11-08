@@ -7,3 +7,4 @@ Available apps -
 1. Todo app with CRUD operations using CoreData
 2. SwiftUI Feed-App with navigation,vertical list and horizontal list. 
 3. watchOS app using SwiftUI having list with drag and remove options.
+4. NearbyClone - UIKit app using custom Header on scroll, Airtel app like UI, circular progress bar, scroll view and uicollectionview inside uitableview. 
